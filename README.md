@@ -13,81 +13,112 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Chaitanya%20Shinde&fontSize=40&fontColor=ffffff&theme=cobalt" />
 </div>
 
-###
+<h1 align="center">Hey there 👋 I'm Chaitanya</h1>
+<h3 align="center">🚀 Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Engineering Student (Electronics & Computer Science)
+- 💡 Passionate about building **real-world impactful applications**
+- 🤖 Exploring **AI + Full Stack Development**
+- 📱 Love working on **Android, Web Apps & Smart Systems**
+- ⚡ I enjoy solving problems & turning ideas into products
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧠 AI-powered Learning & Mentorship Platform  
+- 📊 Unified Customer Complaint Dashboard (Gen-AI + NLP)    
+- 📱 Smart Productivity & Life Companion Apps  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Backend Systems (APIs, Architecture)
+- AI/ML Integration in Applications
+- System Design & Scalable Applications
+- Cloud & DevOps basics
+
+---
+
+## 💼 Projects Highlights
+
+### 🔹 Mentorship Platform
+- Connect mentors & mentees with smart scheduling
+- Video call, chat, progress tracking
+- Personalized mentorship journeys
+
+### 🔹 Smart Learning App
+- AI-generated notes & solutions  
+- Voice chatbot for doubt solving  
+- Gamified learning experience  
+
+### 🔹 Complaint Dashboard (Gen-AI)
+- NLP-based complaint classification  
+- Sentiment analysis & duplicate detection  
+- Smart resolution suggestions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`C` `C++` `Java` `Python` `Dart` `TypeScript` `PHP`
+
+### 🌐 Web & App Development
+`React` `Next.js` `Flutter` `Android Studio` `HTML` `CSS` `Tailwind`
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `Firebase`
+
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Figma` `Canva` `Jupyter Notebook`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaShinde9&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaShinde9&theme=tokyonight" height="150"/>
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🧠 My Developer Mindset
 
-###
+- 🔍 Problem Solver First, Coder Second  
+- ⚡ Focus on **real-world solutions**
+- 🚀 Always learning & experimenting  
+- 🤝 Open to collaboration & innovation  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🤝 Let's Connect
 
-<p align="left">I'm Chaitanya Shinde from Mumbai<br><br>- 🔭 I’m an Engineering Student<br>- 📚 I'm currently learning Electronics and Computer Science <br>- ⚡ In my free time I think and do things that make me happy and more productive</p>
+- 💬 Ask me about: Development, AI, Projects
+- 📫 Reach me: www.linkedin.com/in/chaitanya-shinde-37b142353
+- 🌐 Portfolio: https://sites.google.com/sakec.ac.in/chaitanya-portfolio/home
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## ⚡ Fun Fact
 
-###
+> I don't just code... I build things that *actually solve problems* 😄
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-
-###
+---
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://i.imgflip.com/65efzo.gif" height="200"/>
 </div>
-
-###
